@@ -1,0 +1,917 @@
+10/05/2026-11:38:46.062288  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-11:38:46.074211  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-11:46:56.002696  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-11:46:56.014189  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-11:54:42.515680  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-11:54:42.530363  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-11:59:24.665430  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/05/2026-11:59:29.762518  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fd17:625c:f037:0002:0000:0000:0000:0003:0
+10/05/2026-11:59:29.763139  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/05/2026-12:00:17.773935  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.15:3 -> 192.168.0.1:3
+10/05/2026-12:00:25.257725  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46168 -> 91.189.92.22:80
+10/05/2026-12:00:25.508555  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:25.759272  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50384 -> 185.125.190.83:80
+10/05/2026-12:00:25.802710  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.844564  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.844565  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.844668  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.844729  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.845192  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.845193  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.845228  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.845267  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.945654  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.945655  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.945655  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.945743  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.945800  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.945881  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.947645  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.947645  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.947645  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:26.947698  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.947831  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:26.947891  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:27.571208  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:27.571293  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.076815  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076815  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076815  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076815  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076815  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076816  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076816  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076816  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.076954  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.077013  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.077035  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.077059  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.077089  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.077159  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.134743  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134743  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134743  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134743  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134743  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134744  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134744  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134744  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.134838  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.134919  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:28.817956  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:28.818579  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.225272  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.230461  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.230461  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.230462  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.230569  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.230900  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.254871  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.255269  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.261848  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.261848  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.261848  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.261848  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.261974  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.262563  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.412396  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.412396  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.412396  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.412511  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.414103  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53186 -> 185.125.190.81:80
+10/05/2026-12:00:29.414685  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.81:80 -> 10.0.2.15:53186
+10/05/2026-12:00:29.416341  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:29.667869  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57502 -> 185.125.190.82:80
+10/05/2026-12:00:29.918644  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52842 -> 91.189.91.83:80
+10/05/2026-12:00:30.169042  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:32926 -> 91.189.92.24:80
+10/05/2026-12:00:30.394001  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.893295  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.893333  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.899794  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.899794  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.899827  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.899853  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.900022  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.900034  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.901958  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.901958  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.901958  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.901958  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.901982  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.902001  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.902011  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.902028  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.904525  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.904525  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:32.904548  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:32.904584  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.428504  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.428619  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.429086  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.429121  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.437185  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.437185  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.437285  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.437392  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.443179  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.443179  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.443275  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.443370  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.444416  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.444416  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.444455  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.444511  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.483476  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.483477  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.483477  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.483477  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.483516  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.483541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.483553  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.483562  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.486397  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.486397  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:48.486427  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:48.486447  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:50.808303  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.808370  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:50.808834  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.808858  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:50.813115  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.813115  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.813204  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:50.813568  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.813568  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.813618  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:50.953651  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:00:50.994145  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:00:55.290211  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:00:55.302376  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:01:08.838676  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.838758  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839086  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839086  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839121  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839251  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839421  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839421  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839421  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839421  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839445  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839471  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839490  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839523  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839734  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839734  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839734  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839760  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839784  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839801  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.839950  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.839962  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.851003  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.851003  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.851004  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.851004  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:08.851072  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.851131  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.851147  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:08.851160  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:10.634443  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:10.634557  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:10.634980  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:10.634980  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:10.635029  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:14.159094  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:14.159134  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:14.159436  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:14.159450  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:14.184883  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:14.184935  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:44.211314  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:44.211002  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:01:44.211483  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:01:44.462495  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50894 -> 185.125.190.82:80
+10/05/2026-12:01:44.713926  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34462 -> 91.189.91.83:80
+10/05/2026-12:01:44.965280  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:35542 -> 91.189.92.24:80
+10/05/2026-12:01:45.216105  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40924 -> 91.189.91.82:80
+10/05/2026-12:01:45.466835  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50890 -> 91.189.91.81:80
+10/05/2026-12:01:45.627839  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.766843  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.767031  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.767549  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.767549  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.767597  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.767661  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.768093  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.768093  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.768135  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.768185  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.812011  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.812011  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.812011  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.812012  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.812074  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.812122  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.812141  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.812187  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:48.850255  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:48.850302  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:55.668358  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:55.668420  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:55.671310  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:55.671310  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:55.671373  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:55.671501  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:55.671702  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:55.671724  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:55.674367  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:55.674415  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:01:55.679646  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:01:55.679692  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:15.400852  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:15.400943  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.764412  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.764589  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.769106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.769106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.769209  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.769338  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.769894  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.770079  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.775888  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.775889  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.775976  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.776072  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.778135  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778136  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778136  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778136  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778137  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778137  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778137  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778330  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.778435  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.778490  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.778563  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.778942  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778943  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778943  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778943  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778943  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778944  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778944  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.778944  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:18.779019  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.779082  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.779139  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.779186  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.779248  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:18.779326  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:21.326645  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:21.326730  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:21.327257  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:21.327257  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:21.327363  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:21.327406  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:21.327900  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:21.327923  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.812223  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.812298  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.812720  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.812720  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.812759  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.812794  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813130  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813131  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813131  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813131  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813161  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813198  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813220  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813245  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813541  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.813583  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813619  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813641  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813664  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813690  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813719  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813745  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.813776  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.814100  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814101  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814101  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814101  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814102  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814102  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814102  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814102  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814167  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.814242  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814243  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814602  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.814602  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.818225  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.818664  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.818665  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.818665  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.818665  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.818733  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.818782  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.818806  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.818829  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.819042  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.819042  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.819043  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.819043  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.819043  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:24.819076  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.819108  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.819130  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.819156  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:24.819184  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.744911  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.744954  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745263  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745263  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745288  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745307  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745529  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745529  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745529  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745529  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745548  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745568  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745581  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745595  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745798  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745798  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:28.745811  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:28.745830  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:29.558758  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:29.558758  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:29.558818  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:29.558874  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:30.392156  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:30.392156  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:30.392255  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:30.395514  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38832 -> 185.125.190.83:80
+10/05/2026-12:02:30.395964  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:30.396099  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:38832
+10/05/2026-12:02:30.646831  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34486 -> 91.189.91.83:80
+10/05/2026-12:02:30.897655  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51994 -> 91.189.92.24:80
+10/05/2026-12:02:31.148383  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40400 -> 91.189.91.82:80
+10/05/2026-12:02:31.398913  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53826 -> 91.189.91.81:80
+10/05/2026-12:02:31.651002  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41498 -> 91.189.92.22:80
+10/05/2026-12:02:31.901573  [**] [1:1000004:1] HTTP connection attempt on port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37648 -> 185.125.190.81:80
+10/05/2026-12:02:32.015662  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.922116  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.922501  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.927838  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.927838  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.927920  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.927990  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.928980  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929025  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.929394  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929394  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929394  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929394  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929394  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929444  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.929486  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.929513  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.929560  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.929608  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:37.929946  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:37.929983  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.223441  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.223571  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.224167  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.224167  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.224212  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.224261  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.224646  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.224646  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.224646  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.224647  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.224686  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.224725  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.224762  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.224808  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225457  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225457  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225458  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225458  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225458  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225458  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225458  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225458  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225543  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225612  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225668  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225720  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225777  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225818  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225859  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225903  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.225973  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225973  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225973  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225974  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225974  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.225974  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:46.226014  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:46.226739  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.748062  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.748165  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.748851  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.748851  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.748903  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.748962  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.749446  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.749447  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.749447  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.749499  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.749561  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.749609  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.754322  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.754322  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.754322  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.754323  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.754428  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.754523  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.754567  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.754611  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.835833  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.835833  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.835834  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:47.835894  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.835944  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:47.835977  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:48.398786  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:48.398832  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:48.399449  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:48.399470  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:48.436298  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:48.436346  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:48.437921  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:48.437965  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:48.438441  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:48.438471  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:48.872928  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:48.873016  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:49.229309  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:49.229309  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:49.229401  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:49.229648  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:49.229881  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:49.229909  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:49.805310  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:49.805387  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.000663  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.000767  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.001447  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.001448  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.001510  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.001571  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.002322  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.002323  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.002323  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.002323  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.002450  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.003050  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.003050  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.003050  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.003050  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.003050  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.003109  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.003168  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.003211  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.003255  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.003302  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.004106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004106  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004107  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:02:53.004259  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.009640  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42810 -> 185.125.190.82:80
+10/05/2026-12:02:53.010447  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.82:80 -> 10.0.2.15:42810
+10/05/2026-12:06:48.825875  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:06:48.838597  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:11:48.179109  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:11:48.190183  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:13:03.210181  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50394 -> 185.125.190.83:80
+10/05/2026-12:13:03.210182  [**] [1:1000003:1] HTTP traffic detected [**] [Classification: (null)] [Priority: 3] {TCP} 185.125.190.83:80 -> 10.0.2.15:50394
+10/05/2026-12:17:04.398773  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:17:04.410262  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:23:42.117802  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:23:42.130397  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:28:50.054465  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:28:50.068626  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:34:43.133196  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:34:43.142150  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:40:43.712374  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:40:43.722711  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:45:46.248913  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:45:46.264672  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:52:41.190752  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:52:41.202570  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-12:58:25.491316  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-12:58:25.502875  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:03:56.565489  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:03:56.574702  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:11:44.092855  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/05/2026-13:11:49.262469  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fd17:625c:f037:0002:0000:0000:0000:0003:0
+10/05/2026-13:11:49.263008  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/05/2026-13:11:57.193079  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:11:57.206586  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:15:29.493734  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:15:29.502580  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:25:03.994677  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:25:04.006505  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:29:31.859804  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:29:31.874605  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:37:40.682318  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:37:40.694500  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:45:02.156764  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:45:02.166417  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:49:06.157452  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:49:06.166455  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-13:55:14.963402  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-13:55:14.974504  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:02:00.285672  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/05/2026-14:02:05.454424  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fd17:625c:f037:0002:0000:0000:0000:0003:0
+10/05/2026-14:02:05.454995  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/05/2026-14:03:09.341723  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:03:09.354417  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:04:31.118693  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fe80:0000:0000:0000:0000:0000:0000:0002:0
+10/05/2026-14:04:31.119256  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/05/2026-14:07:45.313402  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:07:45.322459  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:13:26.213582  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/05/2026-14:20:47.060579  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:20:47.076279  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:26:35.642171  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:26:35.653256  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:31:25.573591  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:31:25.585012  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:35:21.485963  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:35:21.497110  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:44:52.400183  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:44:52.413015  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:52:28.601312  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:52:28.613002  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-14:59:30.196259  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-14:59:30.205035  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-15:03:09.598795  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-15:03:09.609364  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:07:13.521207  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:07:13.535069  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:07:16.379082  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:08:25.379068  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:09:00.379065  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:09:24.379148  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:10:36.379103  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:10:44.379330  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:11:12.773079  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:11:12.782967  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:11:25.379171  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:11:45.379142  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:12:41.379158  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:13:19.379157  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:13:46.379801  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:14:52.379161  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:15:15.379048  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:15:56.379049  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:16:09.379471  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:17:09.379664  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:17:38.379368  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:17:55.358317  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:17:55.371023  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:18:10.379729  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:19:12.379383  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:19:44.379526  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:20:22.379107  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:20:25.379308  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:21:26.379331  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:21:50.643320  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:21:50.654967  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:22:01.379140  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:22:30.379304  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:23:36.379193  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:24:08.379360  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:24:46.379174  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:24:48.379413  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:25:45.379192  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:25:51.275920  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:25:51.287013  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:26:20.379536  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:26:48.379014  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:27:56.379136  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:28:33.379682  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:29:08.379236  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:29:14.381378  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:30:07.379534  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:30:43.379341  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:31:04.348290  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:31:04.358991  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:31:19.379375  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:32:16.379301  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:32:56.379278  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:33:32.379140  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:33:39.379141  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:34:36.379071  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:34:37.379579  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:35:04.379523  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:35:41.380420  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:35:44.379347  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:35:47.379243  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:36:39.379286  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:36:45.379554  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:36:53.379198  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:37:14.379410  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:37:38.893906  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/05/2026-17:37:38.902959  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/05/2026-17:38:03.379323  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:39:07.379342  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:39:28.381229  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:40:14.379301  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:41:04.380134  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:41:06.379550  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:41:40.379681  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:11.379158  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:11.379158  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.379216  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/05/2026-17:42:28.380013  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.380125  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.380213  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:56102 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:42:28.380655  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.380655  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.381081  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.381168  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.381613  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.381613  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.381996  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.382158  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:28.382252  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 0000:0000:0000:0000:0000:0000:0000:0001:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:4
+10/05/2026-17:42:33.387360  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:33.387360  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:33.389296  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:33.389472  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:33.431016  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fd17:625c:f037:0002:0000:0000:0000:0003:0
+10/05/2026-17:42:33.431227  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/05/2026-17:42:33.430960  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fe80:0000:0000:0000:0000:0000:0000:0002:0
+10/05/2026-17:42:33.431227  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/05/2026-17:42:38.394280  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.394280  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.395637  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.395855  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.397344  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.397344  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.398392  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.398392  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.400072  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:38.400073  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:41.379671  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:41.379931  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:41.380772  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:41.380772  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:41.381410  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:41.381642  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:44.379113  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:46.386639  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:46.386640  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:46.387095  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.391564  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.391564  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.392973  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.393074  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.394014  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.394015  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.394677  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.394962  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.395344  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.395345  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.396017  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.396083  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.396751  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.396751  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.397317  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:51.397605  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:56.573681  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:42:56.573682  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:18.379126  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:18.379126  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:32.379910  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:32.380072  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:32.380382  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 0000:0000:0000:0000:0000:0000:0000:0001:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:4
+10/05/2026-17:43:33.379410  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/05/2026-17:43:37.382305  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.382305  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.383391  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.383555  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.383582  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:33736 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:43:37.384759  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.384759  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.385650  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.385822  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.386637  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:37.386637  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:39.379436  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:39.379436  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:39.380098  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:39.380423  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:39.380533  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:44.382309  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:44.382479  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:44.382646  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:48.379451  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.387732  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.387732  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.388216  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.389439  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.389853  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:57244 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:43:49.389902  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.390868  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.390868  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.392315  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.392631  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.393491  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.393492  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.394727  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.395018  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.395955  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.395955  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.397176  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:49.397662  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:54.403019  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:54.403020  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:54.403381  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.408252  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.408252  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.410603  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.411074  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:53602 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:43:59.412692  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.414120  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.414526  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.419220  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.419632  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:53612 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:43:59.419810  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.420811  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:43:59.420811  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.379747  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.379847  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.379883  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:56998 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:44:36.380541  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.380541  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.381165  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.382008  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:36.382008  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 0000:0000:0000:0000:0000:0000:0000:0001:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:4
+10/05/2026-17:44:41.381871  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:41.573477  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.385779  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.385780  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.386406  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.386663  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.387076  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.387077  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.387564  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.387564  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.388255  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.388255  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.388650  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.388701  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.389144  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.389293  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.389599  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:46.389655  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:51.390736  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:51.390736  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:51.391278  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.396284  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.396284  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.397449  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.397591  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.397688  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:38642 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:44:56.398574  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.398574  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.400312  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.400312  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.400562  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:38658 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:44:56.401212  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.401212  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.402281  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.402544  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.403370  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.403370  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.404015  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:44:56.404198  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:01.408047  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:01.408047  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:01.408315  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.408055  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.573566  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.575707  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.575707  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.576676  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.576677  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.577690  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.577806  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.577847  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:39510 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:45:06.578447  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.578448  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.578986  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.579139  [**] [1:2210059:1] SURICATA STREAM pkt seen on wrong thread [**] [Classification: (null)] [Priority: 3] {TCP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:39512 -> fd17:625c:f037:0002:0000:0000:0000:0003:53
+10/05/2026-17:45:06.579220  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.579779  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.579779  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.580328  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:06.580477  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:11.823641  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:11.823641  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:42.379491  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:42.379491  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:42.379837  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 0000:0000:0000:0000:0000:0000:0000:0001:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:4
+10/05/2026-17:45:47.380155  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.380155  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.381223  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.381318  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.382321  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.382321  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.384150  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.384370  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.385414  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.385414  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.386529  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.386658  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.388067  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.388067  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.389095  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:47.389366  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:52.573404  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:52.573404  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.391384  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.392245  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.393157  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.393158  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.393699  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.393699  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.394132  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.394257  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.401777  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.401777  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.403141  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.403141  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.404198  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.404198  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.405174  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:45:57.405174  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.2:3 -> 10.0.2.15:0
+10/05/2026-17:46:02.408125  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/06/2026-09:20:31.349956  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.15:3 -> 192.168.0.1:3
+10/06/2026-09:20:35.375880  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 0000:0000:0000:0000:0000:0000:0000:0001:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:4
+10/06/2026-09:20:38.044761  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-09:20:38.054702  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/06/2026-09:20:40.622740  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fd17:625c:f037:0002:0000:0000:0000:0003:0
+10/06/2026-09:20:40.623015  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/06/2026-09:20:56.570119  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.15:3 -> 192.168.0.1:3
+10/06/2026-09:21:42.238537  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/06/2026-09:21:47.438667  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fe80:0000:0000:0000:0000:0000:0000:0002:0
+10/06/2026-09:21:47.439071  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/06/2026-09:22:41.997013  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/06/2026-09:30:14.618149  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-09:30:14.636660  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/06/2026-09:38:20.450278  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-09:38:20.462037  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/06/2026-09:46:00.741174  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-09:46:00.752196  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/06/2026-09:57:26.136232  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 0000:0000:0000:0000:0000:0000:0000:0000:135 -> ff02:0000:0000:0000:0000:0001:ff55:4407:0
+10/06/2026-09:57:26.221995  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/06/2026-09:57:27.726580  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+10/06/2026-09:57:27.726735  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-09:57:34.214121  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0a00:27ff:fe55:4407:135 -> ff02:0000:0000:0000:0000:0001:ff00:0003:0
+10/06/2026-09:57:34.214777  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/06/2026-09:57:34.215319  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:1 -> fd17:625c:f037:0002:0a00:27ff:fe55:4407:0
+10/06/2026-09:57:59.320322  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:135 -> fd17:625c:f037:0002:0000:0000:0000:0003:0
+10/06/2026-09:57:59.320760  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fd17:625c:f037:0002:0000:0000:0000:0003:136 -> fe80:0000:0000:0000:0a00:27ff:fe55:4407:0
+10/06/2026-10:02:37.420661  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-10:02:37.432275  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+10/06/2026-10:11:09.365767  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+10/06/2026-10:11:09.378404  [**] [1:1000001:1] SURICATA ICMP TEST ALERT [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe55:4407:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
